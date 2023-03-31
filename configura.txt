@@ -1,0 +1,8 @@
+# configura.txt
+
+Instalaciones para el Entorno:
+	pip install pylint # ayuda a mostrar los errores de código
+
+Instalaciones para vsCode:
+	python ( Microsoft)
+	Tkinter Snippets
