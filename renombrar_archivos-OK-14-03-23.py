@@ -6,7 +6,6 @@ import os
 
 from tkinter import filedialog
 
-
 folder_selected = filedialog.askdirectory()
 
 if not folder_selected:
