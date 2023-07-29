@@ -3,6 +3,10 @@
 Instalaciones para el Entorno:
 	pip install pylint # ayuda a mostrar los errores de código
 
+# resources: https://www.youtube.com/watch?v=fFY5103p5-c
+Ejecutar pylint:
+	python -m pylint .\nombre_archivo.py
+
 Instalaciones para vsCode:
 	python ( Microsoft)
 	Tkinter Snippets
